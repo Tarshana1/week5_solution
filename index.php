@@ -1,5 +1,5 @@
-<title>TARSHANA ASHOK</title>
-<h1>Tarshana Ashok</h1>
+<title>TARSHANA ASHOK PHP</title>
+<h1>Tarshana Ashok PHP</h1>
 <p><?php
 	print "The SHA256 hash of \"Tarshana Ashok\" is ".hash('sha256', 'Tarshana Ashok');
 ?></p>
